@@ -1,6 +1,6 @@
 {
   "name": "vikram",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "my npm card",
   "main": "index.js",
   "bin": {

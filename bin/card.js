@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const chalk = require("chalk");
 const boxen = require("boxen");
 
@@ -42,8 +44,6 @@ const output =
   githubing +
   newline +
   linkedining +
-  newline +
-  webing +
   newline +
   newline +
   carding;
